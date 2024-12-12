@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### NAME: LAKSHMEN PRAHANTH R
+### REG NO: 24007066
+### EXPERIMENT: ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -52,6 +54,7 @@ Figure 02  Encoder 8 * 3
 
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming.
 
+
 ![EXP5](https://github.com/user-attachments/assets/a2224315-cc60-40de-a53f-a6ddf5ea5f1e)
 
 
@@ -59,8 +62,7 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: lakshmen prashanth R RegisterNumber: 24007066
-*/
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling:**
 ![image](https://github.com/user-attachments/assets/b312e063-8745-46c4-a2f2-65848f3f2f6d)
